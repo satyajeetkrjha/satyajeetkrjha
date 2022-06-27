@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am pursuing my MS in Computer Engineering(2021 -2023 May) from Syracuse University ,New York .Prior to this ,I have been a software developer for three years .
-I am an engineer at heart and I enjoy digging into frameworks to understand as how something works.I am an active competitive coder and here is the link to profile .
+I am an engineer at heart and I enjoy digging into frameworks to understand as how something works.I am also an active competitive coder and here is the link to profile .
 <ul>https://leetcode.com/satyajeet_jha/ </ul>
 My area of interest include
 
