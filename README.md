@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**satyajeetkrjha/satyajeetkrjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am pursuing my MS in Computer Engineering from Syracuse University ,New York .Prior to this ,I have been a software developer for three years .
+I am an engineer at heart and I enjoy digging into frameworks to understand as how something works.I am an active competitive coder and here is the link to profile .
+<ul>https://leetcode.com/satyajeet_jha/ </ul>
+My area of interest include
 
-Here are some ideas to get you started:
+<li>Distributed Systems </li>
+<li>Operating systems </li>
+<li>Database </li> 
+<li>Concurrency </li>
+<li>Algorithms</li>
+<li>High performant Web apps </li>
+<br></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Languages : C++ | Java | Python | Javascript </p>
+<p>Backend : Spring boot | Django Rest Framework | Expressjs </p>
+<p>Frontend : Reactjs | Nextjs </p>
+
+
+
+
+- 📫 How to reach me: satyajeetjha06@gmail.com or sjha04@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can crack jokes but only if you promise to laugh .
