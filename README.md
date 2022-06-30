@@ -11,6 +11,7 @@ My area of interest include
 <li>Concurrency </li>
 <li>Algorithms</li>
 <li>High performant Web apps </li>
+<li>Object Oriented Programming </li>
 <br></br>
 
 <p>Languages : C++ | Java | Python | Javascript </p>
