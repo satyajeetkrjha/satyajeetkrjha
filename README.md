@@ -15,8 +15,9 @@ My area of interest include
 <br></br>
 
 <p>Languages : C++ | Java | Python | Javascript </p>
-<p>Backend : Spring boot | Django Rest Framework | Expressjs </p>
+<p>Backend : Spring boot | Django Rest Framework | Nodejs </p>
 <p>Frontend : Reactjs | Nextjs </p>
+I also have a published app on google playstore built in react native .
 
 
 
