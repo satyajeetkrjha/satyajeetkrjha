@@ -5,10 +5,10 @@ My area of interest include
 
 <li>Distributed Systems </li>
 <li>Operating systems </li>
+<li>High performant React Web apps </li>
 <li>Database </li> 
 <li>Concurrency </li>
 <li>Algorithms</li>
-<li>High performant Web apps </li>
 <li>Object-Oriented Programming </li>
 <br></br>
 
