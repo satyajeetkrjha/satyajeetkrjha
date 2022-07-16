@@ -4,7 +4,8 @@ I am pursuing MS, in Computer Engineering(2021 August -2023 May) from Syracuse U
 <li>
 ( Competitive Programming ProfileLink from grad at Syracuse University  https://leetcode.com/satyajeet_jha/ )
   <li>
-(Competitive Programming ProfileLink from undergrad   https://www.stopstalk.com/user/profile/icecreaminwinter)  
+  <li>
+(Competitive Programming ProfileLink from undergrad https://www.stopstalk.com/user/profile/icecreaminwinter)  
     </li>
 </li>  
 
