@@ -2,9 +2,9 @@
 
 I am pursuing MS, in Computer Engineering(2021 August -2023 May) from Syracuse University,New York. Before this, I have been a software developer for three years. I am an engineer at heart with a solid understanding of algorithms and data structures. I am also an active competitive coder 
 <li>
-(ProfileLink from grad at Syracuse University https://leetcode.com/satyajeet_jha/ )
+( Competitive Programming ProfileLink from grad at Syracuse University  https://leetcode.com/satyajeet_jha/ )
   <li>
-(ProfileLink from undergrad https://www.stopstalk.com/user/profile/icecreaminwinter)  
+(Competitive Programming ProfileLink from undergrad   https://www.stopstalk.com/user/profile/icecreaminwinter)  
     </li>
 </li>  
 
