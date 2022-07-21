@@ -30,4 +30,4 @@ I also have a published app on google playstore, built in react native .
 
 - 📫 How to reach me: satyajeetjha06@gmail.com or sjha04@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can crack jokes only if you promise to laugh
+- ⚡ Fun fact: I can crack jokes only if you promise to laugh .
