@@ -25,7 +25,7 @@ My area of interest include
 <p>Frontend : Reactjs | Nextjs </p>
 I also have a published app on google playstore, built in react native .
 
-
+<p>MOTTO :Inspired by my prof at Syracuse University ,I believe programming should be as fun as playing a video game .<p/>
 
 
 - 📫 How to reach me: satyajeetjha06@gmail.com or sjha04@gmail.com
