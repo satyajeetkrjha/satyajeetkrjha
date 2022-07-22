@@ -7,7 +7,9 @@ I am pursuing MS, in Computer Engineering(2021 August -2023 May) from Syracuse U
   <li>
 (Competitive Programming ProfileLink from undergrad https://www.stopstalk.com/user/profile/icecreaminwinter)  
   </li>
-  
+
+<p><b>MOTTO</b> :Inspired by my prof at Syracuse University ,I believe programming should be as fun as playing a video game .<p/>
+
 
 My area of interest include
 
@@ -20,12 +22,14 @@ My area of interest include
 <li>Object-Oriented Programming </li>
 <br></br>
 
+
+
 <p>Languages : C++ | Java | Python | Javascript </p>
 <p>Backend : Spring boot | Django Rest Framework | Nodejs </p>
 <p>Frontend : Reactjs | Nextjs </p>
 I also have a published app on google playstore, built in react native .
 
-<p>MOTTO :Inspired by my prof at Syracuse University ,I believe programming should be as fun as playing a video game .<p/>
+
 
 
 - 📫 How to reach me: satyajeetjha06@gmail.com or sjha04@gmail.com
