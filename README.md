@@ -7,6 +7,7 @@ I am pursuing MS, in Computer Engineering(2021 August -2023 May) from Syracuse U
   <li>
 (Competitive Programming ProfileLink from undergrad https://www.stopstalk.com/user/profile/icecreaminwinter)  
   </li>
+  <br></br>
 
 <p><b>MOTTO</b> :Inspired by my prof at Syracuse University ,I believe programming should be as fun as playing a video game .<p/>
 
