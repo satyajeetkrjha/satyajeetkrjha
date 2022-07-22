@@ -9,7 +9,7 @@ I am pursuing MS, in Computer Engineering(2021 August -2023 May) from Syracuse U
   </li>
   <br></br>
 
-<p><b>MOTTO</b> :Inspired by my prof at Syracuse University ,I too believe that programming should be as fun as playing a video game.<p/>
+<p><b>MOTTO</b> My prof at Syracuse University once said :"Programming should be as fun as playing a video game ".I live by this quote.<p/>
 
 
 My area of interest include
