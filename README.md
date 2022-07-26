@@ -25,6 +25,7 @@ My area of interest include
 <li>Object-Oriented Programming </li>
 <br></br>
 
+Yeah ,I am an algorithm fanboy and I do algorithms extensively .
 
 
 <p>Languages : C++ | Java | Python | Javascript </p>
