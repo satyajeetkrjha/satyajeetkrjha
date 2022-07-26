@@ -7,7 +7,6 @@ I am pursuing MS, in Computer Engineering(2021 August -2023 May) from Syracuse U
   <li>
 (Competitive Programming ProfileLink from undergrad https://www.stopstalk.com/user/profile/icecreaminwinter)  
   </li>
-  <br></br>
  <br> Yeah ,I am an algorithm fanboy and I do algorithms extensively .</br>
 
 <p><b>MOTTO:</b> My prof at Syracuse University once said :<b>"Programming should be as fun as playing a video game "</b>.I live by this quote.<p/>
