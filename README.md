@@ -20,7 +20,7 @@ My area of interest include
 <li>Software Architecture </li>
 <li>High performant React Web apps </li>
 <li>Database </li> 
-<li>Concurrency </li>
+<li>Concurrency and MultiThreaded Programming </li>
 <li>Algorithms</li>
 <li>Object-Oriented Programming </li>
 <br></br>
