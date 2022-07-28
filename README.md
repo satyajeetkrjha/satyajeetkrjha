@@ -15,7 +15,7 @@ I am pursuing MS, in Computer Engineering(2021 August -2023 May) from Syracuse U
 
 My area of interest include
 
-<li>Distributed Systems </li>
+<li><b>Distributed Systems</b> </li>
 <li>Operating systems </li>
 <li>Software Architecture </li>
 <li>High performant React Web apps </li>
