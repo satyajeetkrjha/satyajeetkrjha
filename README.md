@@ -19,6 +19,7 @@ My area of interest include
 <li><b>Operating systems</b> </li>
 <li><b>High performant React Web apps</b> </li>
 <li><b> Databases and Performance</b></li>
+<li><b> Computer Networks </b> </li>
 <li><b>Concurrency and MultiThreaded Programming</b> </li>
 <li> <b>Algorithms</b></li>
 <li><b>Object-Oriented Programming</b> </li>
