@@ -31,7 +31,7 @@ My area of interest include
 <p>Languages : C++ | Java | Python | Javascript </p>
 <p>Backend : Spring boot | Django Rest Framework | Nodejs </p>
 <p>Frontend : Reactjs | Nextjs </p>
-I also have a published app on google playstore, built in react native .
+I also have a published app on google playstore, built in react native which I wrote in a team of two for my previous employer.
 
 
 
