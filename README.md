@@ -9,7 +9,7 @@ I am pursuing MS, in Computer Engineering(2021 August -2023 May) from Syracuse U
   </li>
  
 
-<p> My prof at Syracuse University once said :<b>"Programming should be as fun as playing a video game "</b>.I live by this quote.<p/>
+<p> My prof at Syracuse University says:<b>"Programming should be as fun as playing a video game "</b>.I live by this quote.<p/>
 
 <b>Linkedin :https://www.linkedin.com/in/satyajeetkrjha/</b> 
 
